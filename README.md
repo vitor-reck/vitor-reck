@@ -62,5 +62,7 @@
 
 
 ### **About**
-<img alt="github-stas" src="https://github-readme-stats.vercel.app/api?username=vitor-reck&theme=dark">
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-reck&theme=dark&hide_langs_below=1">
+<div>
+  <img alt="github-stas" src="https://github-readme-stats.vercel.app/api?username=vitor-reck&theme=dark">
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-reck&theme=dark&hide_langs_below=1">
+</div>
