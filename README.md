@@ -7,8 +7,8 @@
 [<img align="left" height="94px" width="94px" alt="Framework" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGCJWXxMPlQ5A/company-logo_200_200/0/1626348714696?e=2159024400&v=beta&t=d7QdmTi99cs9FjkNzM7ojRzxkVh0_NPocxTzYWSSXiE"/>](https://www.frameworkdigital.com.br/)
 
 **Backend Developer** \
-[**Framework**](https://www.frameworkdigital.com.br/) • Intern \
-`Java`, `Spring`, `Microservices`
+[**Framework**](https://www.frameworkdigital.com.br/) • Software Developer Intern \
+`Java`, `Spring`, `PostgreSQL`, `Apache Maven`, `Microservices`
 
 
 <br/>
