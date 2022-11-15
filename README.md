@@ -7,8 +7,8 @@
 [<img align="left" height="94px" width="94px" alt="Framework" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGCJWXxMPlQ5A/company-logo_200_200/0/1626348714696?e=2159024400&v=beta&t=d7QdmTi99cs9FjkNzM7ojRzxkVh0_NPocxTzYWSSXiE"/>](https://www.frameworkdigital.com.br/)
 
 **Backend Developer** \
-[**Framework**](https://www.frameworkdigital.com.br/) • Software Developer Intern \
-`Java`, `Spring`, `PostgreSQL`, `Apache Maven`, `Microservices`
+[**Framework**](https://www.frameworkdigital.com.br/) • Software Developer Jr. \
+`Java`, `Spring`, `Microservices`, `NodeJS`
 
 
 <br/>
@@ -25,6 +25,9 @@
  <a href="https://en.wikipedia.org/wiki/JavaScript">
 <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40">
  </a>
+ <a href="https://reactjs.org/">
+<img alt="ReactJS" src="https://reactjs.org/logo-og.png" width="40">
+ </a>
 
 
 <br/>
@@ -38,8 +41,8 @@
  <a href="https://spring.io/projects/spring-boot">
 <img alt="Spring Boot" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="40">
  </a>
-  <a href="https://www.postgresql.org/">
-<img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40">
+  <a href="https://expressjs.com/">
+<img alt="ExpressJS" src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" width="40">
  </a>
 
 
