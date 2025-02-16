@@ -5,5 +5,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-vitorreck150@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorreck150@gmail.com)](mailto:vitorreck150@gmail.com)
 
 **Backend Developer** \
-• Software Developer Jr. \
-`Java`, `Spring`, `Microservices`
